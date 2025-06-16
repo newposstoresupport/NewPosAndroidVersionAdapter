@@ -38,10 +38,10 @@ Old version gradle configuration
 ```groovy
 android {
 
-    compileSdkVersion 34
+    compileSdkVersion 33
     defaultConfig {
         ......
-        targetSdkVersion 34
+        targetSdkVersion 33
     }
 }
 ```
