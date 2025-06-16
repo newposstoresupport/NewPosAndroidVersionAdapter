@@ -18,7 +18,7 @@ This open source public repository is maintained by NEWPOS internal professional
 
 
 ### Adaptation process
-* Here we take the adaptation of Android 14 as an example. The first step is to modify the values ​​of targetSdkVersion and compileSdkVersion in the build.gradle file in the main module.
+* Here we take the adaptation of Android 13 as an example. The first step is to modify the values of targetSdk and compileSdk in the build.gradle file in the main module.
 
 
 New version gradle configuration, gradle or gradle.kts
